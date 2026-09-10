@@ -52,17 +52,26 @@
 
     <rect x="212" y="134" width="70" height="24" rx="3" fill="#3776AB"/>
     <text x="247" y="150" text-anchor="middle" class="chip-text" fill="#ffffff">Python</text>
+
+    <rect x="294" y="134" width="70" height="24" rx="3" fill="#150458"/>
+    <text x="329" y="150" text-anchor="middle" class="chip-text" fill="#ffffff">Pandas</text>
+
+    <rect x="376" y="134" width="62" height="24" rx="3" fill="#4479A1"/>
+    <text x="407" y="150" text-anchor="middle" class="chip-text" fill="#ffffff">MySQL</text>
   </g>
 
   <g>
-    <rect x="28" y="166" width="70" height="24" rx="3" fill="#150458"/>
-    <text x="63" y="182" text-anchor="middle" class="chip-text" fill="#ffffff">Pandas</text>
+    <rect x="28" y="166" width="50" height="24" rx="3" fill="#232F3E"/>
+    <text x="53" y="182" text-anchor="middle" class="chip-text" fill="#FF9900">AWS</text>
 
-    <rect x="110" y="166" width="62" height="24" rx="3" fill="#4479A1"/>
-    <text x="141" y="182" text-anchor="middle" class="chip-text" fill="#ffffff">MySQL</text>
+    <rect x="90" y="166" width="66" height="24" rx="3" fill="#2496ED"/>
+    <text x="123" y="182" text-anchor="middle" class="chip-text" fill="#ffffff">Docker</text>
 
-    <rect x="184" y="166" width="50" height="24" rx="3" fill="#232F3E"/>
-    <text x="209" y="182" text-anchor="middle" class="chip-text" fill="#FF9900">AWS</text>
+    <rect x="168" y="166" width="126" height="24" rx="3" fill="#2088FF"/>
+    <text x="231" y="182" text-anchor="middle" class="chip-text" fill="#ffffff">GitHub Actions</text>
+
+    <rect x="306" y="166" width="46" height="24" rx="3" fill="#F05032"/>
+    <text x="329" y="182" text-anchor="middle" class="chip-text" fill="#ffffff">Git</text>
   </g>
 
   <text x="28" y="224" class="date-text">2026.02.19 ~ 2026.03.27</text>
