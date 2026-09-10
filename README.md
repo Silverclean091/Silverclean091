@@ -1,4 +1,4 @@
-<div align="center">
+# 🐹 About Me,
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=755FFF&width=530&lines=Building+AI+Services%2C+One+Workflow+at+a+Time)](https://git.io/typing-svg)
 
@@ -9,10 +9,21 @@ focus     Building AI services for enterprise workflows
 ```
 <br>
 
+<div align="center">
 
 [![Velog](https://img.shields.io/badge/Velog-@silverclean091-20C997?style=for-the-badge&labelColor=060C1A)](https://velog.io/@silverclean091)   [![Email](https://img.shields.io/badge/-NAVER_mail-03C75A?style=for-the-badge&labelColor=060C1A&logo=naver&logoColor=white)](mailto:wjdghkdidi@naver.com)
 
 <br><br><br>
+
+---
+
+<br><br>
+
+## 🚀 Projects
+
+
+
+<br><br>
 
 ---
 
