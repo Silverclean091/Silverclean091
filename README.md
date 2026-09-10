@@ -67,5 +67,5 @@ focus     Building AI services for enterprise workflows
 
 <br>
 
-<img src="https://velog-readme-stats.vercel.app/api?name=silverclean091" width="60%" />
+<img src="https://velog-readme-stats.vercel.app/api?name=silverclean091" />
 </div>
