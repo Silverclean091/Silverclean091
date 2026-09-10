@@ -1,7 +1,7 @@
 <svg width="480" height="220" viewBox="0 0 480 220" xmlns="http://www.w3.org/2000/svg">
   <style>
     .card-bg { fill: transparent; stroke: #d0d7de; stroke-width: 1.4; }
-    .repo-icon { fill: none; stroke: #0969da; stroke-width: 1.6; }
+    .coffee-icon { fill: none; stroke: #6F4E37; stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; }
     .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 700; fill: #1f2328; }
     .pill { fill: transparent; stroke: #57606a; stroke-width: 1.2; }
     .pill-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 700; fill: #57606a; letter-spacing: 1.2px; }
@@ -13,7 +13,7 @@
 
     @media (prefers-color-scheme: dark) {
       .card-bg { stroke: #30363d; }
-      .repo-icon { stroke: #58a6ff; }
+      .coffee-icon { stroke: #C69C6D; }
       .title { fill: #e6edf3; }
       .pill { stroke: #8b949e; }
       .pill-text { fill: #8b949e; }
@@ -26,9 +26,11 @@
 
   <rect x="1" y="1" width="478" height="218" rx="18" class="card-bg"/>
 
-  <g transform="translate(26,22)">
-    <rect x="0" y="0" width="16" height="19" rx="2.5" class="repo-icon"/>
-    <path d="M4.5 0 V19" class="repo-icon"/>
+  <g transform="translate(26,22)" class="coffee-icon">
+    <path d="M1 7 H13 V15 a3 3 0 0 1 -3 3 H4 a3 3 0 0 1 -3 -3 Z"/>
+    <path d="M13 8.5 q3 0 3 3 t-3 3"/>
+    <path d="M4 4.5 q1 -1.8 0 -3.5"/>
+    <path d="M8 4.5 q1 -1.8 0 -3.5"/>
   </g>
 
   <text x="52" y="39" class="title">LG 홈카페 무드온</text>
