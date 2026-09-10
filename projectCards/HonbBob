@@ -1,0 +1,61 @@
+<svg width="480" height="250" viewBox="0 0 480 250" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card-bg { fill: transparent; stroke: #d0d7de; stroke-width: 1.4; }
+    .rice-icon { fill: none; stroke: #cf222e; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 700; fill: #1f2328; }
+    .pill { fill: transparent; stroke: #57606a; stroke-width: 1.2; }
+    .pill-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 700; fill: #57606a; letter-spacing: 1.2px; }
+    .sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500; fill: #57606a; }
+    .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 400; fill: #6e7781; }
+    .chip-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 700; }
+    .date-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; fill: #6e7781; }
+    .repo-link { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #0969da; }
+
+    @media (prefers-color-scheme: dark) {
+      .card-bg { stroke: #30363d; }
+      .rice-icon { stroke: #ff7b72; }
+      .title { fill: #e6edf3; }
+      .pill { stroke: #8b949e; }
+      .pill-text { fill: #8b949e; }
+      .sub { fill: #8b949e; }
+      .desc { fill: #8b949e; }
+      .date-text { fill: #8b949e; }
+      .repo-link { fill: #58a6ff; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="478" height="248" rx="18" class="card-bg"/>
+
+  <g transform="translate(26,22)" class="rice-icon">
+    <path d="M1 9 H15"/>
+    <path d="M1 9 Q1 16 8 16.5 Q15 16 15 9"/>
+    <path d="M3.5 9 Q8 3 12.5 9"/>
+  </g>
+
+  <text x="52" y="39" class="title">홍밥(Hong-Bob)</text>
+
+  <rect x="340" y="21" width="112" height="22" rx="11" class="pill"/>
+  <text x="396" y="35.5" text-anchor="middle" class="pill-text">TOY PROJECT</text>
+
+  <text x="28" y="66" class="sub">Hongdae Solo Dining Map & Community Platform</text>
+
+  <text x="28" y="92" class="desc">Developed a solo dining map and community platform</text>
+  <text x="28" y="110" class="desc">for residents in Hongdae</text>
+
+  <g>
+    <rect x="28" y="134" width="56" height="24" rx="3" fill="#007396"/>
+    <text x="56" y="150" text-anchor="middle" class="chip-text" fill="#ffffff">Java</text>
+
+    <rect x="96" y="134" width="104" height="24" rx="3" fill="#6DB33F"/>
+    <text x="148" y="150" text-anchor="middle" class="chip-text" fill="#ffffff">Spring Boot</text>
+
+    <rect x="212" y="134" width="62" height="24" rx="3" fill="#4479A1"/>
+    <text x="243" y="150" text-anchor="middle" class="chip-text" fill="#ffffff">MySQL</text>
+
+    <rect x="286" y="134" width="50" height="24" rx="3" fill="#232F3E"/>
+    <text x="311" y="150" text-anchor="middle" class="chip-text" fill="#FF9900">AWS</text>
+  </g>
+
+  <text x="28" y="222" class="date-text">2026.01.14 ~ 2026.03.18</text>
+  <text x="452" y="222" text-anchor="end" class="repo-link">Repository →</text>
+</svg>
