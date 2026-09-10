@@ -21,9 +21,19 @@ focus     Building AI services for enterprise workflows
 
 ## 🚀 Projects
 
+<br>
 
+<img src="./projectCards/Persona-twin.svg" width="48%"/> <img src="./projectCards/KCCI-Agent.svg" width="48%"/>
 
-<br><br>
+<a href="https://github.com/Silverclean091/lgdx3-theex-backend"><img src="./projectCards/LG-homecafe-moodon.svg" width="48%"/></a> <a href="https://github.com/cool-Type404/404-backend"><img src="./projectCards/HongBob.svg" width="48%"/></a>
+
+</div>
+
+&nbsp;&nbsp;&nbsp;<img src="./projectCards/Illtackge.svg" width="48%"/>
+
+<div align="center">
+
+<br><br><br>
 
 ---
 
